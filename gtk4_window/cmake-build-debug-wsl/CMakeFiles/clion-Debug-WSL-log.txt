@@ -1,0 +1,6 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" -S /mnt/c/Users/johnh/OneDrive/Documents/clion_projects/linux/gtk4_window -B /mnt/c/Users/johnh/OneDrive/Documents/clion_projects/linux/gtk4_window/cmake-build-debug-wsl
+-- Checking for module 'gtk4'
+--   Found gtk4, version 4.14.2
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /mnt/c/Users/johnh/OneDrive/Documents/clion_projects/linux/gtk4_window/cmake-build-debug-wsl

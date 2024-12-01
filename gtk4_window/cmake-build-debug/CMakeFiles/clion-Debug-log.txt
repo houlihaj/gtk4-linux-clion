@@ -1,0 +1,11 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" -S /mnt/c/Users/johnh/OneDrive/Documents/clion_projects/linux/gtk4_window -B /mnt/c/Users/johnh/OneDrive/Documents/clion_projects/linux/gtk4_window/cmake-build-debug
+-- The C compiler identification is GNU 13.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Found PkgConfig: /usr/bin/pkg-config (found version "1.8.1") 
+-- Configuring done (0.7s)
+-- Generating done (0.0s)
+-- Build files have been written to: /mnt/c/Users/johnh/OneDrive/Documents/clion_projects/linux/gtk4_window/cmake-build-debug

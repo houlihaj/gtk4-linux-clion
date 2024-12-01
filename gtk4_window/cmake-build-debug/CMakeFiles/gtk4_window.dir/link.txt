@@ -1,0 +1,1 @@
+/usr/bin/cc -g "CMakeFiles/gtk4_window.dir/example-0.c.o" -o gtk4_window 
